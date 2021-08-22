@@ -1,7 +1,7 @@
 # Youtube-View-Bot
-
-## Description
-Protects your project from unauthorized users using their HWIDS.
+### NOTE: If YouTube rate limits you, you should use different proxies/IP.
+### Description
+Generates views for youtube videos.
 
 ### Installation
 1. Open up CMD or powershell and type:
@@ -15,7 +15,9 @@ pip install colorama
 ### Usage
 1. On lines 26, 27, 28, 29 change the path to the chromedriver.exe 
 2. At line 23 change the views you desire.
-3. Run main.py and let the app run for some time.
+3. Run main.py
+4. Enter in the youtube url
+5. Let the app run for some time.
 
 ### Uses these external libraries:
 * selenium - to control the webbrowser.
