@@ -1,7 +1,5 @@
 # Youtube-View-Bot
 ### NOTE: If YouTube rate limits you, you should use different proxies/IP.
-### Description
-Generates views for youtube videos.
 
 ### Installation
 1. Open up CMD or powershell and type:
