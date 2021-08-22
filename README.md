@@ -24,7 +24,7 @@ pip install colorama
 ### Uses these non-external libraries:
 * ctypes - for app title.
 * time - so it can delay the refreshes.
-* 
+
 ### If you need any support or help you can contact me at my discord: zqua#9285
 
 ### License [MIT](https://github.com/zquaa/Youtube-View-Bot/blob/main/LICENSE)
